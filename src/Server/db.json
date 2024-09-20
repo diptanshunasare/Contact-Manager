@@ -1,0 +1,90 @@
+{
+  "contacts": [
+    {
+      "id": "@A126",
+      "name": "rajesh",
+      "photo": "https://th.bing.com/th/id/OIP.eU8MYLNMRBadK-YgTT6FJQHaHw?w=208&h=217&c=7&r=0&o=5&dpr=1.4&pid=1.7",
+      "mobile": "966898989",
+      "email": "rajesh123@gmail.com",
+      "company": "tcs",
+      "title": "Software Developer",
+      "groupId": "6"
+    },
+    {
+      "id": "fb2c",
+      "name": "Diptanshu Nasare",
+      "photo": "https://static.vecteezy.com/system/resources/thumbnails/002/002/403/small/man-with-beard-avatar-character-isolated-icon-free-vector.jpg",
+      "mobile": "1212121212121",
+      "email": "diptanshunasare@gmail.com",
+      "title": "developer",
+      "company": "Infosys",
+      "groupId": ""
+    },
+    {
+      "id": "d049",
+      "name": "Ramesh",
+      "photo": "https://e7.pngegg.com/pngimages/799/987/png-clipart-computer-icons-avatar-icon-design-avatar-heroes-computer-wallpaper-thumbnail.png",
+      "mobile": "442424224242",
+      "email": "ram@gmail.com",
+      "title": "Tester",
+      "company": "TCS",
+      "groupId": ""
+    },
+    {
+      "id": "1c9d",
+      "name": "Suresh",
+      "photo": "https://www.silcharmunicipality.in/wp-content/uploads/2021/02/male-face.jpg",
+      "mobile": "117717171717",
+      "email": "suresh@gmail.com",
+      "title": "BI",
+      "company": "HCL",
+      "groupId": ""
+    },
+    {
+      "id": "cf8e",
+      "name": "Raj",
+      "photo": "https://www.silcharmunicipality.in/wp-content/uploads/2021/02/male-face.jpg",
+      "mobile": "54555444544",
+      "email": "raj@gmail.com",
+      "title": "family",
+      "company": "Accenture",
+      "groupId": ""
+    },
+    {
+      "id": "df96",
+      "name": "KaranKumar",
+      "photo": "https://static.vecteezy.com/system/resources/thumbnails/002/002/403/small/man-with-beard-avatar-character-isolated-icon-free-vector.jpg",
+      "mobile": "12345678745",
+      "email": "karan@gmail.com",
+      "title": "frontend",
+      "company": "HEll",
+      "groupId": ""
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Family"
+    },
+    {
+      "id": "3",
+      "name": "Social"
+    },
+    {
+      "id": "4",
+      "name": "College"
+    },
+    {
+      "id": "5",
+      "name": "Friends"
+    },
+    {
+      "id": "6",
+      "name": "Community"
+    }
+  ]
+}
