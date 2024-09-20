@@ -1,0 +1,19 @@
+Contact Manager Application
+This application is a fully functional Contact Manager built using ReactJS and technologies like HTML, CSS, JavaScript, Bootstrap 5, and JSON for data handling. It allows users to efficiently manage multiple contacts, with features to add, edit, view, and delete contacts.
+
+Key Features:
+View Contacts: Display a list of all contacts stored in the system.
+Add New Contact: Users can easily add new contacts by filling out a form that captures details like name, email, phone, photo, company, and title.
+Edit Existing Contact: Users can update existing contacts with any new information.
+Delete Contact: Remove any unwanted or obsolete contact entries.
+Responsive Design: The application is fully responsive, ensuring optimal viewing across different devices.
+Tools & Technologies:
+Frontend: ReactJS for dynamic and modular UI components.
+AJAX Calls: Axios for making HTTP requests to interact with a local JSON database.
+UI/UX: Bootstrap 5 for responsive design and pre-built UI components.
+Development Tools: VSCode for development, Postman, and Insomnia for API testing.
+Code Overview:
+Main Application: The app is structured with a main navigation bar and different routes for managing contacts (Add, Edit, View, List).
+Server-Side (Mock): A JSON file serves as the database, holding both contact and group information.
+Contact Services: A service class interacts with the backend (mock JSON) through Axios to perform CRUD operations.
+This application is a practical tool for users to manage their personal or professional contacts, offering intuitive navigation and a smooth user experience.
